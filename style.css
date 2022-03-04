@@ -1,0 +1,11 @@
+/*
+Theme Name: WordPack child theme
+Template: wordpack
+
+Version: 2.0
+Description: Deafault
+Author: Maxim Kiselev
+*/
+
+/* импортируем стили родительской темы */
+@import url("../twentyfifteen/style.css");
